@@ -1,4 +1,4 @@
-﻿# csv-analyzer-plotter
+﻿# CSV PLOTTER
 CSV Analyzer & Plotter is a web tool built with Streamlit that allows users to upload CSV files, perform univariate, bivariate, and multivariate data analysis, visualize the results using various types of plots and graphs.
 
 Features:
